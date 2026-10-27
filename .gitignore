@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+node_modules/
+dist/
+.env
+*.sqlite
+*.db
+data/runs/
+.DS_Store
+.sandbox/
+.pio/
+config/recipients/*.local.yaml
+*.whl
